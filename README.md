@@ -14,5 +14,7 @@ DSDT, SSDT had patched
 940MX (of course, because no Apple devices use MX gpu cards) <br />
 WIFI.Default wifi card only support Bluetooth. Remove Qualcomm QCA 9377 to another wifi card (I using Intel AC 3165) <br />
 not test yet :3 <br />
+# SCREENSHOT
+![alt text](https://github.com/huynhduc0/ACER-E5-575G-HACKINTOSH/blob/master/Screen%20Shot%202020-10-15%20at%2001.07.37.png?raw=true)
 # NOTE
 Insert product key in config.plist
