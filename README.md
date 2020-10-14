@@ -9,6 +9,7 @@ Audio <br />
 Mic <br />
 Camera <br />
 Icloud, Imess, Facetime <br />
+DSDT, SSDT had patched
 ## NOTWORKING <br />
 940MX (of course, because no Apple devices use MX gpu cards) <br />
 WIFI.Default wifi card only support Bluetooth. Remove Qualcomm QCA 9377 to another wifi card (I using Intel AC 3165) <br />
